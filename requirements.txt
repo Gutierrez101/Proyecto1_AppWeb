@@ -1,4 +1,7 @@
 pip
+tempfile
+os
+io
 streamlit
 pillow
 PyPDF2
